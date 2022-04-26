@@ -1,0 +1,4 @@
+Average Frechet Distance: 109.37760263021293
+Average Distance Travelled: 195.19298819014992
+Success Rate: 0.4072164948453608
+

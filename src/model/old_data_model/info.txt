@@ -1,0 +1,2 @@
+these model are trained using old data, dim = 31, the 30m are replaced by 0.
+related to try4_old.py

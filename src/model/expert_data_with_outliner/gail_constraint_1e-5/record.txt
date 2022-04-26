@@ -1,0 +1,3 @@
+this model is trained based on the gail-100epoch-1e-5
+when testing, add constrints
+train for 100 another epoch.

@@ -1,0 +1,8 @@
+a more aggressive discriminator(update %5)
+ppo hidden layer :128->64
+no batch norm for value net work
+
+Average Frechet Distance: 202.264411931963
+Average Distance Travelled: 99.06885858775526
+Success Rate: 0.020618556701030927
+

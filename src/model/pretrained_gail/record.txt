@@ -1,0 +1,15 @@
+Average Frechet Distance: 148.51275566943067
+Average Distance Travelled: 154.53705887959396
+Success Rate: 0.2190721649484536
+
+with constraints:
+Average Frechet Distance: 116.30158612795859
+Average Distance Travelled: 188.13071980174735
+Success Rate: 0.38402061855670105
+
+with speed constraints:
+Average Frechet Distance: 116.90173666870906
+Average Distance Travelled: 187.48503787433978
+Success Rate: 0.38144329896907214
+
+
