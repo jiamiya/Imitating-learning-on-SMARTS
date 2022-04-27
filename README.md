@@ -1,2 +1,4 @@
 # Imitating learning on SMARTS
- Implement GAIL on SMARTS
+This is the course project of AI3601: Reinforce Learning of SJTU. The main work is implementing GAIL on SMARTS.
+This is the submission version for this project. For more imformation, please see https://github.com/jiamiya/NGSIM_SMARTS.
+ 
